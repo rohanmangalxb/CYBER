@@ -1,0 +1,10 @@
+project_id = "dxdyhchxfdrmwexexjaw"
+
+[functions.threat-chatbot]
+verify_jwt = false
+
+[functions.threat-intelligence]
+verify_jwt = false
+
+[functions.threat-api]
+verify_jwt = false
